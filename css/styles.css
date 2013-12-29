@@ -14,6 +14,7 @@ a:link {color:black;}
 #stays {
 	position: fixed;
 	letter-spacing: 2px;
+	
 }
 
 
@@ -21,6 +22,7 @@ a:link {color:black;}
 	padding-top: 2000px;
 	padding-bottom: 900px;
 	letter-spacing: 2px;
+	width: 100%
 }
 
 
