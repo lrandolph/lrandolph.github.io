@@ -1,3 +1,33 @@
-head {
-	font-size: 155px;
+#top_box, #second_box, #third_box {
+
+font-family: Arial;	
+
+background-color: gray;
+text-align: center;
+
+border-radius: 15px;
+
+width: 300px;
+height: 300px;
+padding: 40px;
+margin: 25px;
+border: 50px, black;
+
+
+}
+
+#navig {
+	font-family: Arial;	
+
+background-color: gray;
+text-align: center;
+
+border-radius: 15px;
+
+width: 200px;
+height: 90px;
+padding: 40px;
+margin: 25px;
+border: 50px, black;
+
 }
