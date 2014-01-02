@@ -1,0 +1,17 @@
+body {
+	font-family: arial;
+	font-size: 25px;
+	width: 400px:;
+	text-align: center;
+	color: gray;
+	background-color: #FFE4E1;
+
+}
+#dayofweek {
+	font-size: 55px;
+	color: black;
+}
+
+#daynum {
+	font-size: 155px;
+}
