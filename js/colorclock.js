@@ -18,7 +18,7 @@ function updateTime () {
 		if (minutes<10)
 			min="0";
 		else 
-			min=""
+			min="";
 	var seconds = start.getSeconds();
 
 
@@ -27,7 +27,7 @@ function updateTime () {
 		if (seconds<10)
 			sec="0";
 		else 
-			sec=""
+			sec="";
 	var ms = start.getMilliseconds();
 
 	$("#time").html(hours + ":" + min + minutes + ":" + sec + seconds);
