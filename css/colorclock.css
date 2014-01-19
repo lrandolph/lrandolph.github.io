@@ -1,0 +1,50 @@
+#time {
+	font-family: arial, serif;
+	font-style: sans;
+	width: 250px;
+	margin:0 auto;
+	background: #FF9D9D;
+	text-align: center;
+	padding: 75px;
+	border-radius: 15px;
+	border: 1pt solid #5C5C8A;
+	font-size: 70px;
+	font-weight: 100;
+	color: gray;
+
+
+}
+
+body {
+	background-color: #66FFCC;
+}
+
+#links {
+	font-family: arial, serif;
+	font-style: sans;
+	width: 250px;
+	margin:0 auto;
+	background: #FF9D9D;
+	text-align: center;
+	padding: 75px;
+	border-radius: 15px;
+	border: 1pt solid black;
+	font-size: 25px;
+	font-weight: 100;
+	color: gray;
+}
+
+#timer {
+	font-family: arial, serif;
+	font-style: sans;
+	width: 250px;
+	margin:0 auto;
+	background: #FF9D9D;
+	text-align: center;
+	padding: 75px;
+	border-radius: 15px;
+	border: 1pt solid black;
+	font-size: 25px;
+	font-weight: 100;
+	color: gray;
+}
