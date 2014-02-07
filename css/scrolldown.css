@@ -1,0 +1,28 @@
+body {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	background-color:teal;
+
+}
+
+
+a:link {color:black;}
+	a:visited {color:black;}
+	a:hover {color:black;}
+	a:active {color:black;}
+
+
+#stays {
+	position: fixed;
+	letter-spacing: 2px;
+	
+}
+
+
+#moves {
+	padding-top: 2000px;
+	padding-bottom: 900px;
+	letter-spacing: 2px;
+	width: 100%
+}
+
+
